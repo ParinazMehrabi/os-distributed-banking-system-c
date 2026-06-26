@@ -1,6 +1,9 @@
 
 ---
 
+## README ریپوی C
+
+md
 <p align="center">
   <img src="https://img.shields.io/badge/C-Language-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Operating%20Systems-Project-6A5ACD?style=for-the-badge">
@@ -25,7 +28,7 @@ The project is designed to simulate banking operations in a concurrent and distr
 - Deadlock detection and recovery
 
 ## Project Structure
-```text
+text
 .
 ├── src/
 │   ├── core/
